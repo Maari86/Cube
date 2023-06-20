@@ -72,7 +72,7 @@ TextureImporter:
       213: 1644401890009567377
     second: transparent_22
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -93,7 +93,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -132,7 +131,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -160,18 +158,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -678,30 +664,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      transparent_5: -6949113410592042042
-      transparent_21: 1104633423630960461
-      transparent_10: 8112146818922731111
-      transparent_16: 2564495243597331246
-      transparent_18: -165217514083652869
-      transparent_0: -3209833726738011397
-      transparent_1: -7919445321365726513
-      transparent_9: -718611166496204589
-      transparent_6: -6523157198374481661
-      transparent_19: -1208035703102495941
-      transparent_8: -6338158877742594139
-      transparent_20: 7218408836798032363
-      transparent_17: 9118385947156664182
-      transparent_11: 5085177026609495008
-      transparent_13: 3462370086578123116
-      transparent_14: -24072786367810052
-      transparent_7: -6054186877065220984
-      transparent_4: -2262004965414832574
-      transparent_15: -8086279781139854478
-      transparent_3: 6307494642871861170
-      transparent_12: -3167078833902068087
-      transparent_22: 1644401890009567377
-      transparent_2: 3346059360347076655
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
